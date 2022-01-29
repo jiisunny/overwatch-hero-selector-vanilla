@@ -1,8 +1,12 @@
-# Overwatch hero selector
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/loving-varahamihira-0a6152/deploys)
+
+# Overwatch hero selector 🎮
 
 오버워치 영웅 선택 페이지 실습 예제
 
 [Overwatch hero selector DEMO](https://loving-varahamihira-0a6152.netlify.app/)
+
+![오버워치 영웅 선택](https://raw.githubusercontent.com/jiisunny/overwatch-hero-selector-vanilla/master/_assets/main_screenshot.png)
 
 ## Image url
 
